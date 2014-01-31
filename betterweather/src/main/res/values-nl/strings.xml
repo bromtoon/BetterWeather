@@ -26,7 +26,7 @@
 
     <!-- About -->
     <string name="about_extension_text">
-        <![CDATA[Created By: <br><i>Marc-André Dufresne</i><br><br>Thanks to Roman Nurik for DashClock!<br> Translaten in Dutch by Rob Goossens]]></string>
+        <![CDATA[Created By: <br><i>Marc-André Dufresne</i><br><br>Thanks to Roman Nurik for DashClock!<br> Translation in Dutch by Rob Goossens]]></string>
     <!-- Add "Translated in LANGUAGE by YOUR NAME" after the last "<br>" in "about_extension_text" -->
     <string name="close">Afsluiten</string>
     <string name="about_title">Over</string>
